@@ -8,7 +8,8 @@ Throughout this analysis, I focused on answering key questions such as:
 ✔ Which age group rents the most bikes?
 ✔ How do bike rentals vary between one-time users and long-term subscribers across different days?
 By addressing these questions, I was able to identify patterns in bike rental behavior and user preferences.
-
+# Data Source:
+https://docs.google.com/spreadsheets/d/1D7y7LfBG-owIkXOiabRfFG0XcEzQS_8Lz5BsnRkVT3E/edit#gid=845159259
 # Data Cleaning Process
 ## Removing Duplicates
 When I first loaded the dataset, I noticed the presence of duplicate values, which could have skewed my analysis. To resolve this:
