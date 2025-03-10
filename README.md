@@ -3,10 +3,15 @@ As someone passionate about data analysis, I decided to explore the NYC Citi Bik
 🚴‍♂ NYC Citi Bikes Data Analysis
 As someone passionate about data analysis, I decided to explore the NYC Citi Bikes dataset to uncover key insights about bike rental patterns. This project involved cleaning, filtering, and analyzing the dataset using pivot tables, descriptive statistics, and data visualization techniques.
 Throughout this analysis, I focused on answering key questions such as:
+
 ✔ Which locations are the most popular for pickups?
+
 ✔ How does trip duration vary across different age groups?
+
 ✔ Which age group rents the most bikes?
+
 ✔ How do bike rentals vary between one-time users and long-term subscribers across different days?
+
 By addressing these questions, I was able to identify patterns in bike rental behavior and user preferences.
 # Data Source:
 https://docs.google.com/spreadsheets/d/1D7y7LfBG-owIkXOiabRfFG0XcEzQS_8Lz5BsnRkVT3E/edit#gid=845159259
@@ -66,10 +71,15 @@ This suggests that subscribers use Citi Bikes more for weekday commuting, while 
 
 # Conclusion
 After cleaning and analyzing the data, I gained valuable insights into NYC Citi Bike rental patterns:
+
 ✔ The most popular pickup locations are PATH Exchange Place, Hamilton Park, and Grand Central.
+
 ✔ Age groups differ in rental behavior—35-44-year-olds rent the most, while 75+ riders take the longest trips.
+
 ✔ One-time users are weekend riders, while long-term subscribers use Citi Bikes for weekday commutes.
+
 ✔ Data cleaning is crucial to remove duplicates, handle missing values, and detect outliers for accurate analysis.
+
 ✔ Pivot tables and visualization techniques helped uncover these insights effectively.
 
 This analysis not only helped me hone my data analysis skills but also provided actionable insights that Citi Bike operators could use to improve bike distribution, pricing, and user engagement strategies.
