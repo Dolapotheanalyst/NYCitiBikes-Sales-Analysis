@@ -1,5 +1,4 @@
 # NYCitiBikes-Sales-Analysis
- # NYCitiBikes-Data-Analysis
 As someone passionate about data analysis, I decided to explore the NYC Citi Bikes dataset to uncover key insights about bike rental patterns. This project involved cleaning, filtering, and analyzing the dataset using pivot tables, descriptive statistics, and data visualization techniques.
 Throughout this analysis, I focused on answering key questions such as:
 
@@ -33,7 +32,7 @@ These steps were essential in ensuring that my analysis was based on accurate an
  How I approached this question:
 I created a pivot table with "Start Station Name" as both row labels and values.
 I sorted the count to determine the most frequently used pickup stations.
-📊 Key Findings:
+ Key Findings:
 The top 3 most popular stations were PATH Exchange Place, Hamilton Park, and Grand Central.
 These stations likely experience high demand due to their proximity to business hubs and transit points.
 This insight could be valuable for bike-sharing companies to optimize bike distribution and availability.
@@ -50,7 +49,7 @@ This insight highlights a potential market segment for Citi Bikes, where they co
 ## Question 3: Which age group rents the most bikes?
 How I approached this question:
 I created a pivot table with "Age Group" in both the row and value sections to count total rentals per age group.
-📊 Key Findings:
+ Key Findings:
 The 35-44 age group rented the most bikes.
 Interestingly, this differs from the 75+ age group, which had the longest trip durations but the lowest rental frequency.
 This suggests that middle-aged individuals are the primary users of Citi Bikes, possibly due to commuting needs.
