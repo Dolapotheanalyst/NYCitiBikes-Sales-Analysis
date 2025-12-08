@@ -1,6 +1,6 @@
 # NYCitiBikes-Sales-Analysis
 As someone passionate about data analysis, I decided to explore the NYC Citi Bikes dataset to uncover key insights about bike rental patterns. This project involved cleaning, filtering, and analyzing the dataset using pivot tables, descriptive statistics, and data visualization techniques.
-🚴‍♂ NYC Citi Bikes Data Analysis
+ NYC Citi Bikes Data Analysis
 As someone passionate about data analysis, I decided to explore the NYC Citi Bikes dataset to uncover key insights about bike rental patterns. This project involved cleaning, filtering, and analyzing the dataset using pivot tables, descriptive statistics, and data visualization techniques.
 Throughout this analysis, I focused on answering key questions such as:
 
@@ -31,7 +31,7 @@ These steps were essential in ensuring that my analysis was based on accurate an
 
 # Data Analysis Using Pivot Tables
 ## Question 1: What are the most popular pickup locations for Citi Bikes?
-📌 How I approached this question:
+ How I approached this question:
 I created a pivot table with "Start Station Name" as both row labels and values.
 I sorted the count to determine the most frequently used pickup stations.
 📊 Key Findings:
@@ -40,16 +40,16 @@ These stations likely experience high demand due to their proximity to business 
 This insight could be valuable for bike-sharing companies to optimize bike distribution and availability.
 
 ## Question 2: How does average trip duration vary across different age groups?
-📌 How I approached this question:
+ How I approached this question:
 I created a pivot table with "Age Group" in rows and "Trip Duration (minutes)" in values.
 This helped me calculate the average trip duration per age group.
-📊 Key Findings:
+ Key Findings:
 The 75+ age group had the longest average trip duration (48 minutes).
 However, this group had one of the lowest rental counts, indicating that while they ride for longer periods, they rent bikes less frequently.
 This insight highlights a potential market segment for Citi Bikes, where they could introduce senior-friendly bike programs to encourage more rentals among older users.
 
 ## Question 3: Which age group rents the most bikes?
-📌 How I approached this question:
+How I approached this question:
 I created a pivot table with "Age Group" in both the row and value sections to count total rentals per age group.
 📊 Key Findings:
 The 35-44 age group rented the most bikes.
@@ -57,13 +57,13 @@ Interestingly, this differs from the 75+ age group, which had the longest trip d
 This suggests that middle-aged individuals are the primary users of Citi Bikes, possibly due to commuting needs.
 
 ## Question 4: How does bike rental vary across the two user groups (one-time users vs. long-term subscribers) on different days of the week?
-📌 How I approached this question:
+How I approached this question:
 I created a pivot table with:
 "Weekdays" in the row section
 "User Type" (One-Time Users vs. Long-Term Subscribers) in the column section
 "Bike ID" in the value section
 I applied conditional formatting to visualize rental trends more clearly.
-📊 Key Findings:
+Key Findings:
 One-time users rent bikes the most on Saturdays and Mondays.
 Long-term subscribers rent bikes mostly on Wednesdays and Thursdays.
 Subscribers rent the least on Saturdays, while one-time users rent the most on that day.
