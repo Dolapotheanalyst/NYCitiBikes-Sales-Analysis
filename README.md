@@ -17,10 +17,7 @@ Through these questions, I was able to reveal meaningful trends in bike usage ac
 ##  Data Source  
 The dataset used for this analysis is available here:  
 **Google Sheets:**  
-`https://docs.google.com/spreadsheets/d/1D7y7LfBG-owIkXOiabRfFG0XcEzQS_8Lz5BsnRkVT3E/edit#gid=845159259`
-
----
-
+[[`https://docs.google.com/spreadsheets/d/1D7y7LfBG-owIkXOiabRfFG0XcEzQS_8Lz5BsnRkVT3E/edit#gid=845159259`
 #  Data Cleaning Process
 
 ## 1. Removing Duplicates  
