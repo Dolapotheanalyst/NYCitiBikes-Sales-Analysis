@@ -1,4 +1,4 @@
-# 🚴 NYC Citi Bikes Sales Analysis  
+# NYC Citi Bikes Sales Analysis  
 A Data-Driven Exploration of Urban Mobility Patterns
 
 As a passionate data analyst, I carried out a comprehensive analysis of the NYC Citi Bikes dataset to uncover patterns in user behavior, trip characteristics, and rental trends across the city. This project involved a full workflow—cleaning the dataset, removing duplicates, handling missing values, detecting outliers, and applying pivot-table–based analysis to derive insights.
@@ -14,14 +14,14 @@ Through these questions, I was able to reveal meaningful trends in bike usage ac
 
 ---
 
-## 📂 Data Source  
+##  Data Source  
 The dataset used for this analysis is available here:  
 **Google Sheets:**  
 `https://docs.google.com/spreadsheets/d/1D7y7LfBG-owIkXOiabRfFG0XcEzQS_8Lz5BsnRkVT3E/edit#gid=845159259`
 
 ---
 
-# 🧹 Data Cleaning Process
+#  Data Cleaning Process
 
 ## 1. Removing Duplicates  
 During initial inspection, the dataset contained **1,950 duplicate rows**, which could distort results.  
@@ -42,7 +42,7 @@ These steps ensured the analytical results were both accurate and meaningful.
 
 ---
 
-# 📊 Data Analysis Using Pivot Tables
+#  Data Analysis Using Pivot Tables
 
 ## **Question 1: What are the most popular pickup locations?**  
 **Approach:**  
@@ -100,7 +100,7 @@ This shows a clear difference between **leisure riders (weekend)** and **commute
 
 ---
 
-# ✅ Conclusion  
+#  Conclusion  
 The analysis provided valuable insights into Citi Bike usage:
 
 - **Most popular pickup stations:** PATH Exchange Place, Hamilton Park, Grand Central.  
@@ -115,7 +115,7 @@ The analysis provided valuable insights into Citi Bike usage:
 
 ---
 
-# 📌 Recommendations for Future Planning and Program Growth  
+#  Recommendations for Future Planning and Program Growth  
 Based on the insights from this analysis, the following recommendations can support planning for future Citi Bike programs, station distribution, and service optimization:
 
 ### **1. Increase Bike Availability at High-Demand Hubs**
@@ -181,6 +181,6 @@ To support continuous improvement:
 
 ---
 
-# 👨‍💻 Author  
+# Author  
 **Adewumi Dolapo**  
 *Data Analyst | Excel | Power BI | SQL | Visualization*  
